@@ -247,6 +247,12 @@ msgstr "进程"
 msgid "1 Process"
 msgstr "单进程"
 
+msgid "Use %s"
+msgstr "使用 %s"
+
+msgid "Close(Not use)"
+msgstr "关闭（不使用）"
+
 msgid "Proxy Mode"
 msgstr "代理模式"
 
@@ -270,9 +276,6 @@ msgstr "游戏模式"
 
 msgid "China List"
 msgstr "中国列表"
-
-msgid "Only use direct/proxy list"
-msgstr "仅使用直连/代理列表"
 
 msgid "Localhost"
 msgstr "本机"
